@@ -1,4 +1,4 @@
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=awohsen&theme=transparent&hide_border=true&show_icons=true&count_private=true&custom_title=Github%20Stats"/></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=awohsen&theme=transparent&card_width=370&hide_border=true&show_icons=true&count_private=true&custom_title=Github%20Stats"/></span>
 <span><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=awohsen&theme=transparent&layout=compact&hide_border=true&range=last_7_days&custom_title=Last%20Week%20Stats"/></span>
 
 <!--
