@@ -1,10 +1,16 @@
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awohsen&theme=transparent&hide_border=true&show_icons=true&count_private=true&custom_title=Github%20Stats)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=awohsen&theme=transparent&layout=compact&hide_border=true&range=last_7_days&custom_title=Last%20Week%20Stats%20💭)
+
+<!--
+**awohsen/awohsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <a href="https://github.com/awohsen/">
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=awohsen&theme=transparent&show_icons=true&count_private=true&custom_title=Github%20Stats"/></span>
+<span><img align="center" src="></span>
 </a>
 <span><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=awohsen&theme=transparent&layout=compact&range=last_7_days"/></span>
 <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awohsen&theme=transparent&layout=compact" /></span>
-<!--
-**awohsen/awohsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 Here are some ideas to get you started:
